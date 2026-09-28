@@ -29,38 +29,38 @@
     {
       "target": "darwin-arm64",
       "url": "https://github.com/Zer0ON1/dbx-plugin-imrepo/releases/download/v0.1.2/com.leavingrain.imrepo-0.1.2-darwin-arm64.dbxp",
-      "sha256": "f5d406cc1e14968f03e03071ef45d86a297c6cab4ddc2ade252d3e8b712a4879",
-      "size": 4837788
+      "sha256": "5e1bc1223e3e081beeda915718d58a7b370bb3d6b7a935212a0fde273dceaa3f",
+      "size": 4548617
     },
     {
       "target": "darwin-x64",
       "url": "https://github.com/Zer0ON1/dbx-plugin-imrepo/releases/download/v0.1.2/com.leavingrain.imrepo-0.1.2-darwin-x64.dbxp",
-      "sha256": "d46ed9ed64189f821ba614ec7a18e83c8f5b9cf598309cad9b652c6652238d62",
-      "size": 5095650
+      "sha256": "98b7fe4620d9080098ad67ea257506abc70c053b3e19d127d117718ae4c781c8",
+      "size": 4791245
     },
     {
       "target": "linux-arm64",
       "url": "https://github.com/Zer0ON1/dbx-plugin-imrepo/releases/download/v0.1.2/com.leavingrain.imrepo-0.1.2-linux-arm64.dbxp",
-      "sha256": "da8f8b4ae5cc0c9982c81642858ecccaaec53d649ccff9d0e379001b7bbeae14",
-      "size": 4815395
+      "sha256": "21eff02900c14ff1eda8c34179e1db25dc28611b9210ede745f6adf9434fe490",
+      "size": 4504587
     },
     {
       "target": "linux-x64",
       "url": "https://github.com/Zer0ON1/dbx-plugin-imrepo/releases/download/v0.1.2/com.leavingrain.imrepo-0.1.2-linux-x64.dbxp",
-      "sha256": "96c799fba493cb74dc4b7fffb85f3ea3dfa268b03d59616100c0166ffe2aa428",
-      "size": 5147787
+      "sha256": "faa4f69d154714149b64e6d14a63efc2d8c66ccb7371a2ceec112d9da34f0889",
+      "size": 4827075
     },
     {
       "target": "windows-arm64",
       "url": "https://github.com/Zer0ON1/dbx-plugin-imrepo/releases/download/v0.1.2/com.leavingrain.imrepo-0.1.2-windows-arm64.dbxp",
-      "sha256": "3977edf56e734a4c3c519dc69aacca8c17d97d6ff1e5249e5b95a4cec305d155",
-      "size": 4803204
+      "sha256": "c53fccbef9c5ea412d7c39c55f7f23c22f98c2492732af13d2d17d331b98abe8",
+      "size": 4512127
     },
     {
       "target": "windows-x64",
       "url": "https://github.com/Zer0ON1/dbx-plugin-imrepo/releases/download/v0.1.2/com.leavingrain.imrepo-0.1.2-windows-x64.dbxp",
-      "sha256": "69ace85dde5b0ba6e7df9b7c64bb6e43c78475614dc09d5901d522b685e86bb8",
-      "size": 5182456
+      "sha256": "a29b42c87a2e47bcc5718d2ed8f5963187e357066fe9b859c3ed4ea7c4df811c",
+      "size": 4867408
     }
   ]
 }
